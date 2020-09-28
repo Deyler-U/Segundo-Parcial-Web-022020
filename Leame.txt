@@ -1,0 +1,4 @@
+Utilice Mysql para la base de datos
+y el script se encuenta en la carpeta Base de datos
+la pagina inicial se encuentra en la carpeta
+Productos y el archivo es index.php
